@@ -1,6 +1,8 @@
 # Classifying Pneumonia in Chest X-Rays of COVID-19 Patients
 
+Worked in a team to develop a neural network model to classify the severity of pneumonia in chest x-rays of COVID-19 patients.
 
+Dataset was sourced from the [Cancer Imaging Archive](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230281).
 
 ## Languages Utilized
 
