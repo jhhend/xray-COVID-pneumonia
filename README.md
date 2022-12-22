@@ -1,48 +1,15 @@
-<style>
-    h1 {
-        font-size: 55px;
-    }
-    h2 {
-        font-size: 44px;
-    }
-    code {
-        font-family:verdana;
-    }
-    p {
-        font-size: 22px;
-    }
-</style>
+# Classifying Pneumonia in Chest X-Rays of COVID-19 Patients
 
-<main>
-    <div>
-        <h1>Welcome to the Incredible COVID Detections from X-rays</h1>
-        <div>
-            <h2>How to Run:</h2>
-            <div>
-                <p>1. Create a base enviroment called xray on python 3.9: </p>
-                <pre><code>conda create -n xray python=3.9
-                </code></pre>
-            </div>
-            <div>
-                <p>2. Activate the conda environment tflabs: </p>
-                <pre><code>conda activate xray
-                </code></pre>
-            </div>
-            <div>
-                <p>3. Cd into the directory of xrayReq.txt then run: </p>
-                <pre><code>pip install -r xrayReq.txt
-                </code></pre>
-            </div>
-            <div>
-                <p>4a. Through terminal open notebook </p>
-                <pre><code>jupyter notebook &
-                </code></pre>
-            </div>
-            <div>
-                <p>4b. Or through vscode install the extension. Then open the notebook(s) and enviroment </p>
-            </div>
-        </div>
-    </div>
-</main>
 
-![](tutorial.gif)
+
+# Languages Utilized
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# Other Technologies Used
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
